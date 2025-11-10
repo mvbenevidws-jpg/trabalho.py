@@ -3,6 +3,7 @@ Código do trabalho de progamação
 
 # --- 1. IMPORTAÇÕES ---
 # Importa as bibliotecas necessárias
+
 import tkinter as tk
 from tkinter import ttk  # 'ttk' oferece widgets com uma aparência mais moderna
 from tkinter import messagebox
