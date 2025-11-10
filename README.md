@@ -1,6 +1,3 @@
-# trabalho.py
-Código do trabalho de progamação
-
 # --- 1. IMPORTAÇÕES ---
 # Importa as bibliotecas necessárias
 
